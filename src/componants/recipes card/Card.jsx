@@ -1,6 +1,3 @@
-/* eslint-disable react/prop-types */
-
-
 const Card = ({ item, WantToCookbtn }) => {
     const { recipe_name, short_description, ingredients, preparing_time, recipe_image, calories } = item
     
