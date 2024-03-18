@@ -36,7 +36,7 @@
         ],
         "preparing_time": "20 min",
         "calories": "280 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/tabbouleh-salad.jpg"
     },
     {
         "recipe_id": "3",
@@ -55,7 +55,7 @@
         ],
         "preparing_time": "25 min",
         "calories": "380 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/italian-spaghetti-carbonara-with-bright-basil-leaves-mushrooms.jpg"
     },
     {
         "recipe_id": "4",
@@ -72,7 +72,7 @@
         ],
         "preparing_time": "35 min",
         "calories": "420 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/raw-margherita-pizza-baking-shovel.jpg"
     },
     {
         "recipe_id": "5",
@@ -92,7 +92,7 @@
         ],
         "preparing_time": "40 min",
         "calories": "350 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/4092.jpg"
     },
     {
         "recipe_id": "6",
@@ -108,7 +108,7 @@
         ],
         "preparing_time": "15 min",
         "calories": "250 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/1131.jpg"
     },
     {
         "recipe_id": "7",
@@ -126,7 +126,7 @@
         ],
         "preparing_time": "25 min",
         "calories": "300 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/47740.jpg"
     },
     {
         "recipe_id": "8",
@@ -145,7 +145,7 @@
         ],
         "preparing_time": "45 min",
         "calories": "380 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/1519.jpg"
     },
     {
         "recipe_id": "9",
@@ -164,6 +164,6 @@
         ],
         "preparing_time": "20 min",
         "calories": "450 calories",
-        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+        "recipe_image": "/src/assets/5327.jpg"
     }
 ]

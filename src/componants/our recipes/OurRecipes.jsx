@@ -36,7 +36,7 @@ const OurRecipes = () => {
         <div className="container mx-auto mt-10">
             <div className="text-center">
                 <h1 className="text-3xl">Our Recipes</h1>
-                <p>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque. </p>
+                <p>Indulge in a delightful array of Flavor Fusion Foods with our curated collection of recipes. From comforting classics to innovative dishes bursting with flavor, our recipes are crafted to inspire and delight your taste buds.  </p>
             </div>
             <div className="toast toast-top toast-end">
                 {showToast && (
