@@ -1,0 +1,169 @@
+[
+    {
+        "recipe_id": "1",
+        "recipe_name": "Spicy Chicken Stir-Fry",
+        "short_description": "A flavorful stir-fry dish with tender chicken and vibrant vegetables, perfect for a quick meal.",
+        "ingredients": [
+            "550 g chicken breast, sliced",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushrooms, sliced",
+            "2 bell peppers, sliced",
+            "3 cloves garlic, minced",
+            "1 thumb-sized ginger, minced",
+            "2 tbsp vegetable oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "2",
+        "recipe_name": "Vegetarian Quinoa Salad",
+        "short_description": "A nutritious salad packed with protein-rich quinoa, fresh vegetables, and zesty dressing.",
+        "ingredients": [
+            "1 cup quinoa, cooked",
+            "1 can chickpeas, drained and rinsed",
+            "1 cucumber, diced",
+            "1 cup cherry tomatoes, halved",
+            "1/2 red onion, thinly sliced",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh mint",
+            "Juice of 1 lemon",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "280 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "3",
+        "recipe_name": "Creamy Mushroom Pasta",
+        "short_description": "A comforting pasta dish with creamy mushroom sauce, perfect for a cozy dinner.",
+        "ingredients": [
+            "300 g pasta of your choice",
+            "300 g mushrooms, sliced",
+            "2 cloves garlic, minced",
+            "1 onion, finely chopped",
+            "200 ml heavy cream",
+            "1/2 cup grated Parmesan cheese",
+            "2 tbsp butter",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "25 min",
+        "calories": "380 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "4",
+        "recipe_name": "Homemade Margherita Pizza",
+        "short_description": "Classic homemade pizza topped with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "1 pizza dough ball",
+            "1 cup tomato sauce",
+            "200 g fresh mozzarella cheese, sliced",
+            "2 tomatoes, thinly sliced",
+            "Handful of fresh basil leaves",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "35 min",
+        "calories": "420 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "5",
+        "recipe_name": "Thai Green Curry",
+        "short_description": "A fragrant Thai curry with tender chicken and aromatic spices, served with rice.",
+        "ingredients": [
+            "400 g chicken thighs, cut into bite-sized pieces",
+            "200 ml coconut milk",
+            "2 tbsp Thai green curry paste",
+            "1 bell pepper, sliced",
+            "1 eggplant, diced",
+            "1 cup bamboo shoots",
+            "Handful of Thai basil leaves",
+            "2 tbsp fish sauce",
+            "1 tbsp brown sugar",
+            "Salt to taste"
+        ],
+        "preparing_time": "40 min",
+        "calories": "350 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "6",
+        "recipe_name": "Caprese Salad",
+        "short_description": "A refreshing Italian salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil.",
+        "ingredients": [
+            "2 large tomatoes, sliced",
+            "200 g fresh mozzarella cheese, sliced",
+            "Handful of fresh basil leaves",
+            "2 tbsp balsamic vinegar",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "250 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "7",
+        "recipe_name": "Teriyaki Salmon",
+        "short_description": "Delicious grilled salmon glazed with sweet and savory teriyaki sauce.",
+        "ingredients": [
+            "4 salmon fillets",
+            "120 ml teriyaki sauce",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "2 cloves garlic, minced",
+            "1 tbsp ginger, grated",
+            "1 tbsp sesame oil",
+            "2 green onions, chopped"
+        ],
+        "preparing_time": "25 min",
+        "calories": "300 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "8",
+        "recipe_name": "Mango Chicken Curry",
+        "short_description": "A vibrant curry dish with succulent chicken and tropical mango, bursting with flavors.",
+        "ingredients": [
+            "500 g chicken breast, cubed",
+            "2 ripe mangoes, diced",
+            "200 ml coconut milk",
+            "2 tbsp curry powder",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 thumb-sized ginger, grated",
+            "2 tbsp vegetable oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "45 min",
+        "calories": "380 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    },
+    {
+        "recipe_id": "9",
+        "recipe_name": "Classic Beef Burger",
+        "short_description": "Juicy beef patties grilled to perfection, topped with cheese and fresh vegetables, served in a soft bun.",
+        "ingredients": [
+            "500 g ground beef",
+            "4 burger buns",
+            "4 slices cheddar cheese",
+            "1 tomato, sliced",
+            "1 onion, sliced",
+            "Handful of lettuce leaves",
+            "4 tbsp ketchup",
+            "2 tbsp mustard",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "450 calories",
+        "recipe_image": "/src/assets/top-view-chicken-soup-with-ingredients.jpg"
+    }
+]
