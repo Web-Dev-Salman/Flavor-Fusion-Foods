@@ -15,8 +15,8 @@ const Card = ({ item, WantToCookbtn }) => {
                 }
                 {ingredients.length > 3 && <p>and more...</p>}
                 <div className="flex">
-                    <p className="flex"><img className="w-6" src="/src/assets/clock.png" alt="" /> {preparing_time}</p>
-                    <p className="flex"><img className="w-6" src="/src/assets/calories.png" alt="" /> {calories}</p>
+                    <p className="flex"><img className="w-6" src="https://i.ibb.co/f0FBGLH/clock.png" alt="" /> {preparing_time}</p>
+                    <p className="flex"><img className="w-6" src="https://i.ibb.co/z2f7xQL/calories.png" alt="" /> {calories}</p>
                 </div>
                 <div className="card-actions ">
                     <button className="btn bg-[#0BE58A] border-none rounded-full" onClick={() => WantToCookbtn(item)}>Want to cook</button>
